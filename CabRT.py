@@ -4,7 +4,7 @@ INFORMATION ABOUT CODE         Coding:
 Basic Authentication with Tornado and Redis DB
 
 Author: Prajinkya Pimpalghare
-Date: 25-March-2017
+Date: 25-March-2018
 Version: 1.0
 ============================================================================"""
 import tornado.httpserver
